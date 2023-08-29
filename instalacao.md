@@ -1,6 +1,6 @@
 # Instalar a versão 3.9 do Python.
 
-  sudo apt install python3.9
+  sudo apt-get install python3.9
 
 # Instalar o módulo de virtual enviroment da versão 3.9 do python.
 
