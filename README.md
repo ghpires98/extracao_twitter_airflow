@@ -14,3 +14,10 @@
     Extrair as informações de json;
     Utilizar a mecânica de resultados por páginas do Twitter.
   
+  ## Aula 3
+
+    Criar e utilizar um ambiente virtual;
+    Instalar o Airflow;
+    Identificar o que é um Hook;
+    Prototipar um Hook;
+    Implementar conexões Http no Airflow.
