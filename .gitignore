@@ -7,3 +7,4 @@ airflow_pipeline/airflow-webserver.pid
 airflow_pipeline/webserver_config.py
 airflow_pipeline/hook/__pycache__1
 airflow_pipeline/airflow.db
+airflow_pipeline/dags/__pycache__
