@@ -42,3 +42,12 @@
     Relembrar sobre como salvar nossos dados na nossa nova estrutura.
 
 ## Aula 5 - Orquestração Airflow
+
+  https://airflow.apache.org/docs/apache-airflow/1.10.12/concepts.html#dags
+  https://airflow.apache.org/docs/apache-airflow/2.3.2/templates-ref.html
+
+    Criar a nossa DAG;
+    Definir todos os parâmetros necessários para a extração;
+    Deixar o Airflow responsável por definir os parâmetros de data necessários.
+    Reconhecer o que é um DAG;
+    Prototipar uma DAG.
